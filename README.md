@@ -1,6 +1,6 @@
 # LabAssistAgent
 
-LabAssistAgent is a tool designed to assist with laboratory tasks by leveraging modern technologies such as Streamlit for the user interface, ChromaDB for database management, and LangChain for natural language processing and text manipulation.
+LabAssistAgent is a tool designed to assist with analysing event viewer logs by leveraging modern technologies such as Streamlit for the user interface, ChromaDB for database management, and LangChain for natural language processing and text manipulation.
 
 ## Features
 - Interactive user interface built with Streamlit.
