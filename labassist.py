@@ -56,9 +56,9 @@ if 'llm' not in st.session_state:
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
-st.title("PDF Chatbot")
+st.title("Events Lab Assistant")
 
-# Upload a PDF file
+# Upload a CSV file
 uploaded_file = st.file_uploader("Upload your csv", type='csv')
 
 for message in st.session_state.chat_history:
